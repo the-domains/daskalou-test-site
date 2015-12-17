@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[daskalou test site]]></title>
-        <description><![CDATA[daskalou test site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Test Site]]></title>
+        <description><![CDATA[Test Site]]></description>
+        <link>https://thegrid.ai/daskalou-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 00:44:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 06:58:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daskalou-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Australia's official weather forecasts & weather radar - Bureau of Meteorology]]></title>
+            <description><![CDATA[<article><h1>Australia's official weather forecasts & weather radar - Bureau of Meteorology</h1><p>This is a note</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/705bf70f90c6437daa4eb7d1def8f023c2da9b95.gif"></article>]]></description>
+            <link>http://www.bom.gov.au/</link>
+            <guid isPermaLink="false">581e4914-fd36-4809-9d1e-7b4468bc4c14</guid>
+            <pubDate>Thu, 17 Dec 2015 06:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The heading]]></title>
             <description><![CDATA[<article><h1>The heading</h1><p>The paragraph</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704cb8d36f5711ba5374b9b2c89e2b62822a87f1.jpg"></article>]]></description>
-            <link>undefinedthe-heading/index.html</link>
+            <link>https://thegrid.ai/daskalou-test-site/the-heading/index.html</link>
             <guid isPermaLink="false">dce3322c-b47d-4386-a219-960c10dd9e7e</guid>
             <pubDate>Thu, 17 Dec 2015 00:44:57 GMT</pubDate>
         </item>
