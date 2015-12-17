@@ -1,7 +1,7 @@
 name: daskalou test site
 favicon: null
-layout_spectrum: 0.5096991593018174
-typography_spectrum: 0.6958639512304217
+layout_spectrum: 1
+typography_spectrum: 0.34571
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6250856958795339
-  lightness: 0.21313612000085413
-  saturation: 0.7858692919835448
-  rhythmicContrast: 0.04547792975790799
+    - '#b7a7a0'
+    - '#000000'
+    - '#d7cfc9'
+    - '#79625a'
+    - '#46332d'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
