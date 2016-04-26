@@ -1,4 +1,4 @@
-name: daskalou test site
+name: daskalou
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.40568
@@ -22,8 +22,8 @@ color:
     - '#696c63'
     - '#000100'
     - '#201f1d'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0.0625
+  lightness: 0.9375
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
